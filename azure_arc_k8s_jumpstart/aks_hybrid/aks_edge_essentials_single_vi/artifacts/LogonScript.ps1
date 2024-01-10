@@ -152,7 +152,7 @@ $viApiVersion="2023-06-02-preview"
 $extensionName="videoindexer"
 #$version="1.0.28-preview" # switch to blank
 $namespace="video-indexer"
-$releaseTrain="release" # switch to release
+$releaseTrain="preview" # switch to release
 $storageClass="longhorn"
 
 Write-Host "Create Cognitive Services on VI resource provider"
